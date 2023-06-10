@@ -17,8 +17,6 @@ The Azure IoT Device SDK for Python enables Python developers to easily create I
 * *If you're looking for the azure-iot-hub library, it is now located in the [azure-iot-hub-python](https://github.com/Azure/azure-iot-hub-python) repository*
 
 **NOTE: 3.x.x is still in beta and APIs are subject to change until the release of 3.0.0**
-
-
 ## Installing the library
 
 The Azure IoT Device library is available on PyPI:
